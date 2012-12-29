@@ -31,3 +31,6 @@ Available parameters
 * *direction* (default:left) : direction of the slide (up,down,left,right)
 * *pageSpace* (default:50) : The space between the 2 page in pixels
 * *speed* (default:2000) : The time duration of the effect
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/0259746f22db165dfa3d376d28b9a847 "githalytics.com")](http://githalytics.com/nicoss01/jQuery-Plugin-Slide-Page)
